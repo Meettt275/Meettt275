@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://twitter.com/meettt275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meettt275" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meetparmar275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meetparmar275" height="30" width="40" /></a>
-<a href="https://fb.com/meet parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meet parmar" height="30" width="40" /></a>
 <a href="https://instagram.com/meettt.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meettt.___" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/meetparmar275" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meetparmar275" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/it072_meet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="it072_meet" height="30" width="40" /></a>
